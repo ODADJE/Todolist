@@ -32,6 +32,7 @@ div.tasks{
 .tasks div p{
     width: 80%;
     padding-left: 10px;
+    font-size: 20px;
 }
 
 .tasks div input{
